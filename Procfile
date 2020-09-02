@@ -1,0 +1,1 @@
+web: gunicorn beachy_project.wsgi
